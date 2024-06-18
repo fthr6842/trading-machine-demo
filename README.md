@@ -1,2 +1,3 @@
 # trading-machine-demo
 as title...
+### 連結期交所API，實現演算法自動交易
